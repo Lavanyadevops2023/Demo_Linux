@@ -1,0 +1,2 @@
+Linux is the family of open-source Unix-like operating systems.
+Its based on the Linux Kernal an operating system kernal first released on Sep 17,1991.
